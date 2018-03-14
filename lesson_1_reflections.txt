@@ -1,0 +1,26 @@
+Viewing a diff between two versions of a file helped me see the bug that was introduced by:
+pinpointing the changes. bug had to have been introduced if the old version worked.
+faster than scanning line-by-line.
+
+Having easy access to the entire history of a file makes me a more efficient programmer in the long term by:
+being able to revert back to superior versions.
+being able to look up functions/tools used in the past and use them again
+being able to reuse whole sections of code/examine how I did things previously
+
+Pros and cons of manually choosing when to create a commit (like in Git) vs having versions automatically saved (like in Google Docs):
+pros: easier to find when done logically, not too much clutter, separate out when shouldn't be combined, won't include changed minds
+cons: have to remember to do it and learn how to do it at the right times, unforeseen problems (power outage?) not accounted for--data lost
+
+I think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately because:
+together because if files are interrelated, you need to know the concurrent versions of them as a group
+separately because it's too much data to save files together esp if they're not related. may be easier to find the version you're looking for if you can choose when to commit each file (there aren't commits without logical changes)
+
+I can use the commands git log and git diff to view the history of files by:
+using the log to find the change I'm looking for then
+compare with diff to see the changes made
+
+**Using version control might make me more confident to make changes that could break something because:
+I won't be afraid of losing the working version that I can always go back to!
+
+Now that I have my workspace set up, I want to try using Git for:
+I'm not really sure! I can't code yet, so that's out. Formatting of recipes seems complicated. Straight text docs seem dull. Hmmm.
