@@ -3,3 +3,15 @@ When I initialize a repository, the computer creates a group of files. I need to
 The staging area is different from the working directory and the repository because it allows you to add things one at a time,
 and it's like a holding pen for you to move things to before you commit them together as a repository.
 Tha value it offers is being able to change your mind and to make a repository out of files from different places.
+
+I can use the staging area to make sure I have one commit per logical change by:
+always putting things in the staging area after I make any change (when I have to stop) then figuring
+out of there has been a logical change? Not sure about this one.
+
+Situations in which branches would be helpful in keeping my history organized:
+if mutliple people are editing something at the same time, as long as merge is easy enough
+if i have different ideas and want to try them out
+if there are different aspects i want to work on but am worried about screwing the working version up
+
+Branches would help by:
+diverging versions
