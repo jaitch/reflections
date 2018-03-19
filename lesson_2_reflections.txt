@@ -15,3 +15,11 @@ if there are different aspects i want to work on but am worried about screwing t
 
 Branches would help by:
 diverging versions
+
+Diagrams help me visualize the branch structure by:
+making a graphic representation with flow and ends and connections.
+
+The result of merging two branches together is:
+one set of code with the changes combined.
+We represent it in the diagram the way we do because:
+it brings them together and also makes the new master limb. arrows go to both.
