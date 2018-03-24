@@ -1,0 +1,4 @@
+I would want to use a remote repository rather than keep all my work local when:
+I am collaborating with other people and they need access to my work and/or are editing the same piece of work
+I am traveling and will be working off a different computer
+I want my work to be safe in case my computer fails
