@@ -2,3 +2,6 @@ I would want to use a remote repository rather than keep all my work local when:
 I am collaborating with other people and they need access to my work and/or are editing the same piece of work
 I am traveling and will be working off a different computer
 I want my work to be safe in case my computer fails
+
+I might want to always pull changes manually rather than have Git automatically stay up-to-date with my remote repository because:
+If my repository is public, somebody else may make changes that I don't want in my local/remote repository
