@@ -5,3 +5,13 @@ I want my work to be safe in case my computer fails
 
 I might want to always pull changes manually rather than have Git automatically stay up-to-date with my remote repository because:
 If my repository is public, somebody else may make changes that I don't want in my local/remote repository
+
+The differences between forks, clones, and branches:
+Forks--I copy an existing repository that's on GitHub so I can make changes it to it in my own account.
+My changes don't affect the original, and there's a record on the original repository of how many people
+have forked that repository, and my version cites the original that I forked from. This is within GitHub.
+Clones--When I make a copy of a repository for use on my own local machine, like for asteroids.
+Branches--versions within my own repository.
+I'd use forks when I want to work off someone else's work;
+clones when nobody else needs to access the copy?
+branches when I am doing versions within my own work.
